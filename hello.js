@@ -1,3 +1,3 @@
-var message = "hello";
-alert(message);
+var message = "hello"
+alert(message)
 
